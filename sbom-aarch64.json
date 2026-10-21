@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-21T14:31:15Z",
+  "generated": "2026-10-21T22:30:06Z",
   "image": "effectcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.13.0",
+      "app_version": "0.14.0",
       "arch": "aarch64",
-      "generated": "2026-10-21T14:30:42Z",
+      "generated": "2026-10-21T22:29:39Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
