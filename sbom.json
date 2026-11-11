@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-10T08:04:37Z",
+  "generated": "2026-11-11T21:34:11Z",
   "image": "effectcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.23.1",
+      "app_version": "0.24.0",
       "arch": "amd64",
-      "generated": "2026-11-10T08:03:13Z",
+      "generated": "2026-11-11T21:33:26Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -266,7 +266,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.6_11,3"
+            "version": "1.30.6_13,3"
           },
           {
             "licenses": [
